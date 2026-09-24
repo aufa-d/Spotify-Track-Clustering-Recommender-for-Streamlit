@@ -1,4 +1,3 @@
-
 # Spotify Track Clustering & Recommender
 
 An interactive web application that groups tracks by audio features using K-Means clustering and delivers song recommendations based on Euclidean distance similarity. Built with Python and Streamlit.
